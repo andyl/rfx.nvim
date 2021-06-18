@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+# This is a simple repl, meant for use in NEOVIM integration testing.
+
+count = 1
+print "#{count}> "
+while (input = gets) != "exit\n" 
+  puts input.upcase
+  count += 1
+  print "#{count}> "
+end
