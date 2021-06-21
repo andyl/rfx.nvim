@@ -1,6 +1,6 @@
-# RfxNvim
+# RfxiNvim
 
-Experimental Neovim plugin for Rfx
+Experimental Neovim plugin for Rfxi.
 
 Refactoring support for Elixir
 
